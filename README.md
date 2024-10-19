@@ -51,3 +51,6 @@ Scikit-Learn
     Cross-Validation: Employed to estimate model performance by training and testing the model on multiple subsets of the data, improving generalization ability.
     Early Stopping and ModelCheckpoint: Regularization techniques used in deep learning to prevent overfitting and save the best-performing model during training.
     ROC Curve and AUC: To evaluate the binary classification models, ROC curves are plotted and AUC scores are calculated, giving insights into the model's performance.
+Outcome
+
+The expected result of this project is a machine learning model capable of accurately predicting customer churn. By analyzing customer attributes such as age, gender, subscription length, and total usage, the model will help the company focus its retention efforts on customers most likely to leave. With this, the business can optimize its strategies, allocate resources more effectively, and reduce customer attrition, all while enhancing customer engagement and satisfaction.
